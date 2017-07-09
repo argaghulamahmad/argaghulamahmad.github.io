@@ -402,10 +402,10 @@ iframe {
   width: 99%;
   margin: 0 auto;
   overflow-y: scroll;
-  background: url('../img/bg-card2.png') repeat-x right top #f4f4f4;
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
+  background-color: #FFFFFF;
   border-top: 6px solid #111;
   -webkit-transition: all 0.6s ease-in-out;
   -moz-transition: all 0.6s ease-in-out;
@@ -618,6 +618,12 @@ iframe {
 }
 .vcard-profile-description {
   text-align: center;
+}
+
+#copyright-box {
+	text-align: center;
+	margin-top: 20px;
+	padding: 10px 0 5px 0;
 }
 .profile-title {
   text-align: center;
