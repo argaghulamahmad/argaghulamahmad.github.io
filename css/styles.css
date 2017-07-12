@@ -33,7 +33,8 @@ Primary use:  Vcard / Personal / CV / Resume / Portfolio
 ! 01. MIXINS / VARIABLES
 ==============	=========================================== */
 .color1 {
-  color: #08aeac;
+/*  color: #08aeac;*/
+	color: #5AA2C9;
 }
 .color2 {
   color: #021533;
@@ -539,7 +540,8 @@ iframe {
 }
 .main-menu-list a {
   display: block;
-  background: #08aeac;
+/*  background: #08aeac;*/
+  background: #5AA2C9;
   padding: 10px;
   color: #ffffff;
   text-transform: uppercase;
@@ -1435,3 +1437,11 @@ span.see-more {
 .safari .testimonial-picture img {
   border: 0px solid #ddd;
 }
+
+/*
+Hidden scroll bar in the container
+*/
+.ps-scrollbar-y {
+	visibility: hidden;
+}
+
