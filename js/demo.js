@@ -12,10 +12,10 @@ document.addEventListener('DOMContentLoaded', function () {
         lineColor: '#666666',
         particleRadius: 9, // Dot size
         lineWidth: 1,
-        curvedLines: true,
+        curvedLines: false,
         proximity: 100, // How close two dots need to be before they join
-        parallax: false
+        parallax: true
 	});
 	var body = document.getElementById('body');
-	body.style.marginTop = - (body.offsetHeight) + 'px';
+	body.style.marginTop = - (body.scrollHeight) + 'px';
 }, false);
