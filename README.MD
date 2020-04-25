@@ -1,3 +1,3 @@
-Arga Ghulam Ahmad Personal Page - argaghulamahmad.github.io (arga.ga) 
+Arga Ghulam Ahmad Personal Page - argaghulamahmad.github.io
 ======
 Still will be developed.
